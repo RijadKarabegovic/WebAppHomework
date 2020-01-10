@@ -67,6 +67,15 @@ body{
     background: #A9A9A9
 }
 
+.projects{
+    transition: 1.5s;
+  
+  }
+  .projects:hover{
+      transform:scale(1.05);
+      z-index: 5;
+      background: rgb(182, 175, 175)
+  }
 .work{
 
   transition: 1.5s;
